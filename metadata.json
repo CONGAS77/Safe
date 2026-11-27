@@ -1,0 +1,8 @@
+{
+  "name": "SAFE",
+  "description": "Personal Safety Network: a safety net when you are alone with active trip sessions, anomaly detection, scheduled check-ins, and trusted contact alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
